@@ -1,6 +1,6 @@
 # Status Bot - Specifications
 
-**Company/Team Name:** Moebius Solutions, Inc.\
+**Company/Team Name:** Company, Inc.\
 **Author:** Emmanuel Alozie\
 **Date:** 15th April 2024
 
