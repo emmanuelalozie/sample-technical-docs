@@ -1,5 +1,3 @@
----
-
 # Status Bot - Specifications
 
 **Company/Team Name:** Moebius Solutions, Inc.\
