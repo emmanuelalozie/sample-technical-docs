@@ -1,5 +1,3 @@
-Here's the entire content of your BDD Specification document formatted into Markdown. This Markdown version can be used in GitHub repositories, Wikis, or any other platform that supports Markdown syntax to enhance readability and structure.
-
 ---
 
 # Status Bot - Specifications
